@@ -86,7 +86,7 @@ MYSQL_PORT=3306
 ### 4.3 **Running the Application**
 To launch the Streamlit app, navigate to the project directory and run the following command:
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 ### 4.4 **Application Features**
 
